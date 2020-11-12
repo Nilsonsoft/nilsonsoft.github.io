@@ -10,17 +10,16 @@
 
 title: Nilson                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Automatização multitarefa.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Nilson, fincionário, grupo mateus,
+  desenvolvedor de bots para telegram, e aplicações web.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://nilsonsoft.github.io'
 
-author: Nilsonlinux                  # change to your full name
+author: Nilson                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -132,7 +131,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
           label: Tags
@@ -141,14 +140,14 @@ defaults:
     scope:
       path: categories
     values:
-      tab_active: Categories
+      tab_active: Categorias
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
-          label: Categories
+          label: Categorias
           url: /tabs/categories/
   -
     scope:
@@ -190,7 +189,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
   accurate:
     - /norobots/
     - /tabs/
-    - /categories/
+    - /Categorias/
     - /tags/
     - /posts/
     - 404.html
