@@ -1,8 +1,8 @@
 ---
 layout: compress
-# Chirpy v2.2
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2020 Cotes Chung
+# Nilson v2.2
+# https://nilsonsoft.github.io/
+# © 2021 Nilson
 # MIT Licensed
 ---
 
